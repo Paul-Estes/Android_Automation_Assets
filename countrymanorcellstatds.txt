@@ -1,0 +1,193 @@
+
+ 
+ 
+ 
+IBR650B	
+ 
+Modem/LTE:	
+
+
+Internal LP4 (SIM1)
+Other Connections:	
+
+
+ethernet-wan
+ 	Status > Internet > Connections
+Search	
+
+Device List
+ 
+Device
+ 
+Ethernet WAN (VID: 1)
+ 
+Internal LP4 (SIM1 - T-Mobile)
+ 
+Internal LP4 (SIM2 - NO SIM)
+Device Information: Internal LP4 (SIM1 - T-Mobile)
+Property
+Value
+Summary
+State
+connected
+Manufacturer
+Cradlepoint Inc.
+Model
+Internal LP4 (SIM1)
+Modem Firmware Version
+RHL75xx.A.2.11.151600.201709111842.x7160_8
+Service Display
+LTE
+Registered Carrier
+T-Mobile
+Home Carrier
+T-Mobile
+Roaming Status
+Home
+Signal Strength
+100
+RSSI
+-67 dBm
+RSSNR
+10
+RSRP
+-96 dB
+RSRQ
+-9 dB
+IMEI
+357650070899431
+Current APN
+fast.t-mobile.com
+IP Address
+28.21.204.5
+Netmask
+255.255.255.0
+Gateway
+0.0.0.0
+DNS Servers
+10.177.0.34,10.177.0.210
+Modem
+Manufacturer
+Cradlepoint Inc.
+Product
+Internal LP4 (SIM1)
+Model
+Internal LP4 (SIM1)
+Supported Technologies
+lte/3g
+Firmware Version
+RHL75xx.A.2.11.151600.201709111842.x7160_8
+Package Version
+2.11.151600_ATT,2.11.151600
+ESN/IMEI
+357650070899431
+IMEI
+357650070899431
+ICCID
+8901260983771865402
+IMSI
+310260987186540
+PIN Status
+READY
+SIM Card Lock
+FALSE
+Chipset
+x7160
+Hardware Version
+1.0
+Temperature
+30 C
+Cellular Network
+Home Carrier
+T-Mobile
+Registered Carrier
+T-Mobile
+Roaming Status
+Home
+Carrier Status
+UP
+Service Display
+LTE
+Signal Strength
+100
+RSSI
+-67 dBm
+RSRP
+-96 dB
+RSRQ
+-9 dB
+Profile 1:
+fast.t-mobile.com
+Cell ID
+22258433 (0x153a301)
+RF Band
+Band 4
+Bandwidth
+20 MHz
+MAC Address
+000011121314
+Current PLMN ID
+310260
+Home PLMN ID
+310260
+Tracking Area Code
+14180
+General Information
+Unique Identifier
+257adc4e
+Port
+int1
+Type
+mdm
+Model
+Internal LP4 (SIM1)
+Interface
+pmeth10
+MTU
+1428
+IPv4 Information
+IP Address
+28.21.204.5
+Netmask
+255.255.255.0
+Gateway
+0.0.0.0
+DNS Servers
+10.177.0.34,10.177.0.210
+Statistics
+Copyright © Cradlepoint, Inc. 2017 All rights reserved.
+Licenses
+Privacy Policy | Support | www.cradlepoint.com
+ 
+ 	QUICK LINKS
+ 	DASHBOARD
+ 	CONNECTION MANAGER
+ 	STATUS
+Internet
+
+Connections
+
+Client Data Usage
+
+Statistics
+
+QoS
+
+Local Networks
+
+Client List
+
+Tunnels
+
+Firewall
+
+Routing
+
+GPIO
+
+Ethernet
+
+GPS
+
+System Logs
+
