@@ -3,9 +3,9 @@ read --prompt "echo 'Project Ref #: ' " -l ref
 adb shell "busybox hwclock --systohc"
 adb install TeamViewerHost12.apk
 adb install base.apk
-adb install smwatchdog_1_0_4.apk
-adb install smbridge_1_2_1.apk
-adb install smplayer_1_0_4.apk
+adb install smwatchdog_4_0_1.apk
+adb install smbridge_4_0_1.apk
+adb install smplayer_4_0_1.apk
 adb shell "am startservice com.sminfinity.smwatchdog/.MainService"
 #Begin SM Bridge initialization
 #Sets Project reference from $ref (Line2) and default credentials
