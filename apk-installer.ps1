@@ -63,7 +63,7 @@ adb shell sleep 4adb shell input tap 148 524
 
 
 #region TeamViewer
-adb shell am start -a android.intent.action.VIEW -d https://898.tv/bbfxpc5qwnyl
+adb shell am start -a android.intent.action.VIEW -d https://get.teamviewer.com/bbfxpc5qwnyl
 adb shell sleep 20
 adb shell input keyevent 61
 adb shell input keyevent 61
